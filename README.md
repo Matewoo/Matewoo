@@ -10,6 +10,6 @@ None 🤷‍♂️
 ## `>my.interests()`
 
 - html & css is pretty nice
-- well, robotik kinda cool
+- well, robotik is kinda cool
 - piano and music too
 - yeah and formula one is also not bad
