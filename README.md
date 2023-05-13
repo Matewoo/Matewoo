@@ -1,4 +1,4 @@
-![akihabara](https://i.imgur.com/OVSRUaI.jpg)
+![akihabara](https://i.imgur.com/Y6Jfqj6.jpg)
 ## `>_about.me()`
 
 Hey, I am a german student, who is currently learning some computer... ;)
