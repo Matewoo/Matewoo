@@ -13,6 +13,3 @@ None 🤷‍♂️
 - well, robotik is kinda cool
 - piano and music too
 - yeah and formula one is also not bad
-
-## `>my.socials()`
-<img src="https://i.postimg.cc/7ZdPV9Tr/00006-2485023510.png" width="300"/>
