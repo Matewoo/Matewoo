@@ -1,7 +1,7 @@
 ![akihabara](https://i.imgur.com/Y6Jfqj6.jpg)
 ## `>_about.me()`
 
-Hey, I am a german student, who is currently learning some computer... ;)
+Hey, I am a german student, who is currently learning some computer at JGU, germany... ;)
 
 ## `>my.skills()`
 
